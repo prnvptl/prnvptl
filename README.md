@@ -24,11 +24,11 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
 
 [Warby Parker Android - Jetpack Compose with MVVM](https://github.com/Pranav-794/WarbyParkerAndroid)
 
-[Political Preparedness - Android MVVM](https://github.com/Pranav-794/PoliticalPreparedness)
-
-[Asteroid Radar - Android MVVM with Retrofit API](https://github.com/Pranav-794/AsteroidRadar)
+[Asteroid Radar - Android MVVM - NASA API ](https://github.com/Pranav-794/AsteroidRadar)
 
 [Custom File Downloader - Android Custom Views, animations, notifications](https://github.com/Pranav-794/custom-view-animated-file-downloader)
+
+[Political Preparedness - Android MVVM](https://github.com/Pranav-794/PoliticalPreparedness)
 
 [MovieStubs - App to find you the best movie tickets!](https://github.com/Pranav-794/MovieStubs)
 
