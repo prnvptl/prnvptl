@@ -24,11 +24,11 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
 
 [Warby Parker Android - Jetpack Compose with MVVM](https://github.com/Pranav-794/WarbyParkerAndroid)
 
-[Asteroid Radar - Android MVVM - NASA API ](https://github.com/Pranav-794/AsteroidRadar)
+[Asteroid Radar - Android MVVM - NASA API](https://github.com/Pranav-794/AsteroidRadar)
 
 [Custom File Downloader - Android Custom Views, animations, notifications](https://github.com/Pranav-794/custom-view-animated-file-downloader)
 
-[Political Preparedness - Android MVVM](https://github.com/Pranav-794/PoliticalPreparedness)
+[Political Preparedness - Android MVVM - Google Civics API](https://github.com/Pranav-794/PoliticalPreparedness)
 
 [MovieStubs - App to find you the best movie tickets!](https://github.com/Pranav-794/MovieStubs)
 
@@ -46,7 +46,7 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
 
 ## 💻 My Toolkit
 
- - IDE: Android Studio ,VS Code
+ - IDE: Android Studio, VS Code
  - Laptop: MacBook Pro (16-inch, 2019) Intel Core i7
 
 
