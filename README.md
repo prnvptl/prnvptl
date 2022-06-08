@@ -44,10 +44,10 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
  - React Native
  - Typescript
 
-## 💻 Tools
+## 💻 My Toolkit
 
  - IDE: Android Studio ,VS Code
- - Laptop: MacBook Pro (16-inch, 2019) Interl Core i7
+ - Laptop: MacBook Pro (16-inch, 2019) Intel Core i7
 
 
 <!--
