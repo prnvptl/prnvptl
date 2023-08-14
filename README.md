@@ -3,8 +3,9 @@
 I am Pranav and currently located in the Boston Area!
 
 I love working on complex problems, puzzles and code. I also love traveling, tennis, chess and coffee!\
-I am currently working on Android at FirstUp.\
+I am currently working on Android at FirstUp.\ 
 I mostly write Android native apps with some experience in React native cross-platform apps.
+Please check out my favorite projects below.
 
 Feel free to contact me if you want to chat about almost anything! Shoot me an email or LinkedIn DM.
 
