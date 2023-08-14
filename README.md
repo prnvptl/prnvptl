@@ -1,6 +1,6 @@
 ## 👋 Hello there, welcome!
 
-I am Pranav and currently located in the New York City Metropolitan Area!
+I am Pranav and currently located in the Boston Area!
 
 I love working on complex problems, puzzles and code. I also love traveling, tennis, chess and coffee!\
 I am currently working on Android at FirstUp.\
