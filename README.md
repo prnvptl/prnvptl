@@ -4,8 +4,7 @@ I am Pranav and currently located in the Boston Area!
 
 I love working on complex problems, puzzles and code. I also love traveling, tennis, chess and coffee!\
 I am currently working on Android at FirstUp.\
-I mostly write Android native apps with some experience in React native cross-platform apps.\
-Please check out my favorite projects below.
+I love creating Android native apps and below are some of my passion projects.\
 
 Feel free to contact me if you want to chat about almost anything! Shoot me an email or LinkedIn DM.
 
@@ -17,6 +16,7 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
 ## 🏗️ Currently working on:
 
 - Android at [FirstUp](https://firstup.io/)
+- Android at [UnionWorx](https://www.unionworx.cloud/) - Passion project
 - Kotlin & Android projects
 - Jetpack Compose
 - Java to Kotlin migration
@@ -24,6 +24,8 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
 ## 📸 Projects:
 
 [Warby Parker Android - Jetpack Compose with MVVM](https://github.com/Pranav-794/WarbyParkerAndroid)
+
+[Union-Worx Android - Jetpack Compose with MVVM](https://play.google.com/store/apps/details?id=com.unionworx.unionworx&hl=en_US)
 
 [Asteroid Radar - Android MVVM - NASA API](https://github.com/Pranav-794/AsteroidRadar)
 
@@ -42,13 +44,11 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
  - Kotlin
  - Java
  - Jetpack Compose
- - React Native
- - Typescript
 
 ## 💻 My Toolkit
 
  - IDE: Android Studio, VS Code
- - Laptop: MacBook Pro (16-inch, 2019) Intel Core i7
+ - Laptop: MacBook Pro (16-inch, 2019) M1 Chip
 
 
 <!--
