@@ -25,7 +25,7 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
 
 [Warby Parker Android - Jetpack Compose with MVVM](https://github.com/Pranav-794/WarbyParkerAndroid)
 
-[Union-Worx Android - Jetpack Compose with MVVM](https://play.google.com/store/apps/details?id=com.unionworx.unionworx&hl=en_US)
+[Union-Worx Android - Jetpack Compose with MVVM](https://www.unionworx.cloud/)
 
 [Asteroid Radar - Android MVVM - NASA API](https://github.com/Pranav-794/AsteroidRadar)
 
