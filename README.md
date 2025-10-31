@@ -15,7 +15,7 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
 
 ## 🏗️ Currently working on:
 
-- Android at [Reddit](https://firstup.io/](https://redditinc.com/)
+- Android Engineer at [Reddit](https://redditinc.com/)
 - Kotlin & Android projects
 - Jetpack Compose
 - Java to Kotlin migration
