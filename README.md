@@ -1,6 +1,6 @@
 ## 👋 Hello there, welcome!
 
-I am Pranav and currently located in the Boston Area!
+I am Pranav and currently located in the Boston Area. I currently work at Reddit as a software engineer on the Android app.
 
 I love working on complex problems, puzzles and code. I also love traveling, tennis, chess and coffee!\
 I am currently working on Android at FirstUp.\
@@ -11,12 +11,11 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
 ## 📫  Contact Me:
  - LinkedIn: https://www.linkedin.com/in/pranav-patel-901225141/
  - Email: prap794@gmail.com
- - Website: Coming soon...
+ - Website: Coming soon
 
 ## 🏗️ Currently working on:
 
-- Android at [FirstUp](https://firstup.io/)
-- Android at [UnionWorx](https://www.unionworx.cloud/) - Passion project
+- Android at [Reddit](https://firstup.io/](https://redditinc.com/)
 - Kotlin & Android projects
 - Jetpack Compose
 - Java to Kotlin migration
@@ -48,7 +47,7 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
 ## 💻 My Toolkit
 
  - IDE: Android Studio, VS Code
- - Laptop: MacBook Pro (16-inch, 2019) M1 Chip
+ - Laptop: MacBook Pro (14-inch, 2024) M4 Max
 
 
 <!--
